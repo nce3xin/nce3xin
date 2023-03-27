@@ -1,11 +1,13 @@
-# 😎 Hey, nice to meet you! 
+# 😎 Hey, nice to meet you!
+
+![](imgs/1.png)
 
 Welcome to my page!
 
 I am Xin, a cloud native backend developer, currently living in **Beijing, China**.
 
 - 🥪 Cloud native, kubernetes, k8s networking, golang, concourse, docker, containerd
-- 🔥 I like table tennis 🏓, billiards 🎱, tennis 🎾, movies 🎬, all kinds of music 🎸, handcraft ⛱️, travel ✈️, badminton 🏸 
+- 🔥 I like table tennis 🏓, billiards 🎱, tennis 🎾, movies 🎬, all kinds of music 🎸, handcraft ⛱️, travel ✈️, badminton 🏸
 - 📫 Email me at xinz3@vmware.com
 
 ### My GitHub stats
