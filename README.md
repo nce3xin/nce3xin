@@ -18,4 +18,4 @@ I am Xin, a cloud native backend developer, currently living in **Beijing, China
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nce3xin&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nce3xin&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nce3xin&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
