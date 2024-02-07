@@ -1,6 +1,9 @@
 # 😎 Hey, nice to meet you!
 
-![](imgs/1.png)
+<p align="center">
+  <img src="imgs/1.png" alt="Rybakina" width="50%" height="50%">
+</p>
+
 
 Welcome to my page!
 
